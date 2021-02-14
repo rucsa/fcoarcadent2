@@ -1,5 +1,3 @@
-# wtf
-
 ## Build Setup
 
 ```bash
