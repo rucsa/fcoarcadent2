@@ -1,0 +1,15 @@
+/* cyrillic-ext */
+@font-face {
+    font-family: "Ananda";
+    src: url("./AnandaPersonalUse.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+

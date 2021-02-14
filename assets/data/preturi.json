@@ -1,0 +1,391 @@
+[
+    {
+    "title": "CONSULTATIE", 
+    "content": [
+        {
+            "service":"Consultatie + diagnostic + plan + calcul tratament",
+            "price":"70 RON"
+        },
+        {
+            "service":"Tratament urgenta (include drenaj / pansament calmant",
+            "price":"70 RON"
+        },
+        {
+            "service":"Consultatie medic specialist chirurg",
+            "price":"80 RON"
+        },
+        {
+            "service":"Consultatie medic specialist ortodont",
+            "price":"80 RON"
+        }
+        ]
+    },
+    {
+    "title": "TRATAMENTE COPII", 
+    "content": [
+        {
+            "service":"Extractie dinte temporar cu radacini resorbite",
+            "price":"50 RON"
+        },
+        {
+            "service":"Extractie dinte temporar cu radacini neresorbite",
+            "price":"70 RON"
+        },
+        {
+            "service":"Extirpare vitala",
+            "price":"30 RON"
+        },
+        {
+            "service":"Extirpare devitala",
+            "price":"30 RON"
+        },
+        {
+            "service":"Obturatie glassionomer",
+            "price":"100 RON"
+        },
+        {
+            "service":"Obturatie fotopolimerizabila",
+            "price":"130 RON"
+        },
+        {
+            "service":"Sigilare dinte temporar",
+            "price":"50 RON"
+        },
+        {
+            "service":"Sigilare dinte definitiv",
+            "price":"80 RON"
+        },
+        {
+            "service":"Sigilare largita",
+            "price":"100 RON"
+        },
+        {
+            "service":"Periaj profesional",
+            "price":"70 RON"
+        },
+        {
+            "service":"Aparat dentar pentru copii - mobil",
+            "price":"900 RON"
+        }
+        ]
+    },
+    {
+        "title": "PROFILAXIE", 
+        "content": [
+            {
+                "service":"Pachet detartraj + periaj",
+                "price":"150 RON"
+            },
+            {
+                "service":"Fluorizare topica gutiera/arcada",
+                "price":"50 RON"
+            },
+            {
+                "service":"Obturatie compozit dinte posterior",
+                "price":"160 RON"
+            },
+            {
+                "service":"Obturatie compozit dinte frontal",
+                "price":"150 RON"
+            },
+            {
+                "service":"Refacere bont din compozit si pivot din fibra de sticla",
+                "price":"170 RON"
+            },
+            {
+                "service":"Pivot fibra de sticla / dentatus",
+                "price":"50 RON"
+            }
+            ]
+        },
+        {
+            "title": "ESTETICA DENTARA", 
+            "content": [
+                {
+                    "service":"Albire dentara cu gel de albire + gutiera",
+                    "price":"750 RON"
+                },
+                {
+                    "service":"Albire dentara cu gel de albire /dinte",
+                    "price":"85 RON"
+                },
+                {
+                    "service":"Fateta ceramica (portelan)",
+                    "price":"250 EURO"
+                },
+                {
+                    "service":"Fateta compozit",
+                    "price":"250 RON"
+                },
+                {
+                    "service":"Bijuterie dentara",
+                    "price":"100 RON"
+                }
+            ]
+        },
+        {
+            "title": "ENDODONTIE", 
+            "content": [
+                {
+                    "service":"Extirpare vitala dinte monoradicular",
+                    "price":"100 RON"
+                },
+                {
+                    "service":"Extirpare vitala dinte pluriradicular",
+                    "price":"140 RON"
+                },
+                {
+                    "service":"Extirpare devitala / sedinta",
+                    "price":"50 RON"
+                },
+                {
+                    "service":"Obturatie de canal dinte monoradicular",
+                    "price":"70 RON"
+                },
+                {
+                    "service":"Obturatie de canal dinte pluriradicular",
+                    "price":"100 RON"
+                },
+                {
+                    "service":"Tratament perforatii radiculare",
+                    "price":"50 RON"
+                },
+                {
+                    "service":"Pansament calmant",
+                    "price":"70 RON"
+                }
+            ]
+        },
+        {
+            "title": "PROTETICA DENTARA FIXA", 
+            "content": [
+                {
+                    "service":"Coroana metalo-ceramica total fizionomica",
+                    "price":"450-650 RON"
+                },
+                {
+                    "service":"Coroana metalo-ceramica semifizionomica",
+                    "price":"350 RON"
+                },
+                {
+                    "service":"Coroana integral metalica",
+                    "price":"250 RON"
+                },
+                {
+                    "service":"Coroana integral ceramica pe suport de zirconiu",
+                    "price":"200 EURO"
+                },
+                {
+                    "service":"Coroana pe implant cimentata",
+                    "price":"900 RON"
+                },
+                {
+                    "service":"Reconstituire corono-radiculara (RCR)",
+                    "price":"150 RON"
+                },
+                {
+                    "service":"Reconstituire corono-radiculara din zirconiu",
+                    "price":"300 RON"
+                },
+                {
+                    "service":"Gutiera bruxism acrilica",
+                    "price":"400 RON"
+                },
+                {
+                    "service":"Ablatie coroana / dinte",
+                    "price":"50 RON"
+                },
+                {
+                    "service":"Ablatie RCR / dinte",
+                    "price":"50 RON"
+                },
+                {
+                    "service":"Recimentare coroana sau RCR / dinte",
+                    "price":"30 RON"
+                },
+                {
+                    "service":"Coroana acrilica provizorie",
+                    "price":"70 RON"
+                },
+                {
+                    "service":"Corp de punte provizoriu colat",
+                    "price":"100 RON"
+                },
+                {
+                    "service":"Cimentare provizorie / dinte",
+                    "price":"20 RON"
+                }
+            ]
+        },
+        {
+            "title": "PROTETICA DENTARA MOBILA", 
+            "content": [
+                {
+                    "service":"Proteza totala",
+                    "price":"1000 RON"
+                },
+                {
+                    "service":"Proteza partiala",
+                    "price":"900 RON"
+                },
+                {
+                    "service":"Proteza totala cu plasa metalica",
+                    "price":"1200 RON"
+                },
+                {
+                    "service":"Proteza partiala cu plasa metalica",
+                    "price":"1100 RON"
+                },
+                {
+                    "service":"Reparatie proteza",
+                    "price":"120 RON"
+                },
+                {
+                    "service":"Adaugare croset",
+                    "price":"120 RON"
+                },
+                {
+                    "service":"Adaugare dinte proteza",
+                    "price":"120 RON"
+                },
+                {
+                    "service":"Captusire proteza in cabinet",
+                    "price":"100 RON"
+                },
+                {
+                    "service":"Captusire proteza in laborator",
+                    "price":"160 RON"
+                },
+                {
+                    "service":"Proteza scheletata unilaterala",
+                    "price":"900 RON"
+                },
+                {
+                    "service":"Proteza scheletata cu crosete turnate",
+                    "price":"2000 RON"
+                },
+                {
+                    "service":"Proteza scheletata cu sisteme speciale",
+                    "price":"2500 RON"
+                },
+                {
+                    "service":"Proteza Kemeny",
+                    "price":"200 RON"
+                }
+            ]
+        },
+        {
+            "title": "CHIRURGIE", 
+            "content": [
+                {
+                    "service":"Extractie dinte parodontotic / rest radicular",
+                    "price":"80 RON"
+                },
+                {
+                    "service":"Extractie dinte monoradicular",
+                    "price":"120 RON"
+                },
+                {
+                    "service":"Extractie dinte pluriradicular",
+                    "price":"150 RON"
+                },
+                {
+                    "service":"Extractie molar de minte",
+                    "price":"150-200 RON"
+                },
+                {
+                    "service":"Extractie molar de minte inclus",
+                    "price":"350 RON"
+                },
+                {
+                    "service":"Extractie canin inclus",
+                    "price":"350 RON"
+                },
+                {
+                    "service":"Rezectie apicala dinte monoradicular",
+                    "price":"350 RON"
+                },
+                {
+                    "service":"Rezectie apicala dinte pluriradicular",
+                    "price":"450 RON"
+                },
+                {
+                    "service":"Decapusonare",
+                    "price":"70 RON"
+                },
+                {
+                    "service":"Incizie abces",
+                    "price":"70 RON"
+                }
+            ]
+        },
+        {
+            "title": "PARODONTOLOGIE", 
+            "content": [
+                {
+                    "service":"Tratament medicamentos gingivite, parodontite / sedinta",
+                    "price":"70 RON"
+                },
+                {
+                    "service":"Infiltratii produse biostimulatoare",
+                    "price":"20 RON"
+                },
+                {
+                    "service":"Biostimulare lumina polarizata/sedinta",
+                    "price":"40 RON"
+                },
+                {
+                    "service":"Drenaj abces parodontal",
+                    "price":"60 RON"
+                },
+                {
+                    "service":"Imobilizari dinti mobili cu fibra de sticla si compozit",
+                    "price":"180 RON"
+                }
+            ]
+        },
+        {
+            "title": "ORTODONTIE", 
+            "content": [
+                {
+                    "service":"Modele studiu",
+                    "price":"80 RON"
+                },
+                {
+                    "service":"Aparat mobil / arcada",
+                    "price":"900 RON"
+                },
+                {
+                    "service":"Aparat fix metalic / arcada",
+                    "price":"2200 RON"
+                },
+                {
+                    "service":"Aparat fix ceramic / arcada",
+                    "price":"2500 RON"
+                },
+                {
+                    "service":"Aparat fix Safir / arcada",
+                    "price":"3300 RON"
+                },
+                {
+                    "service":"Aparat Incognito / arcada",
+                    "price":"2300 EURO"
+                },
+                {
+                    "service":"Aparat Incognito Lite / arcada",
+                    "price":"900 EURO"
+                },
+                {
+                    "service":"Control + activare aparat fix/arcada",
+                    "price":"90 RON"
+                },{
+                    "service":"Control + activare aparat fix/2 arcade",
+                    "price":"130 RON"
+                },
+                {
+                    "service":"Gutiera contentie",
+                    "price":"400 RON"
+                }
+            ]
+        }
+]
